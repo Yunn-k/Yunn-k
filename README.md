@@ -10,7 +10,7 @@ My long-term goal is to create related services based on my knowledge but to ach
 ## About me
 <br>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m currently searching for my first web developer job.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m currently searching for my next web developer job.
 - ⚡ hobbies: learning languages, hiking, cycling, running, walking, writing, reading, doing yoga and meditation
 - 📫 come to visit my blog. https://ala-nueva.tistory.com
 
@@ -62,15 +62,10 @@ My long-term goal is to create related services based on my knowledge but to ach
 
 ## Project
 <br>
-- SKB AIDC Management Flatform project (2025.01 ~ current)
-- SKT Tango-I cloud project (2024.01 ~ 2024.12)
 
-I've just completed my first team project, called OctaP (octap.co.kr), which offers an MBTI test and allows you to embark on a challenging project on your own or with people who share a similar personality type. 
-You can track your progress, experiment with new ideas, and bring about positive changes. We hope to see you there soon! 😉  
-
-### preview
-![image](https://github.com/Yunn-k/Yunn-k/assets/111223326/43213bfa-911e-45ed-a2fe-5f4e03e3ac3f)
-
+- SKB AIDC Management Flatform project (2025.01 - current)
+- SKT Tango-I cloud project (2024.01 - 2024.12)
+- Octap (2023.07 - 2023.11)
 
 
 
