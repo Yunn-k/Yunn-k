@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)
 # Hi I'm Yuna 👋😎
 <br>
-I'm a new developer with approximately 7 years of experience in a marine shipping company. 
+I'm a web developer with approximately 7 years of experience in a marine shipping company. 
 During my time there, I specialized in container database management and developed a keen interest in databases and web services. 
 My long-term goal is to create related services based on my knowledge but to achieve that, I recognize the need to acquire a wide range of skills and background in this new field!😉😉    
 
