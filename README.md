@@ -31,6 +31,11 @@ My long-term goal is to create related services based on my knowledge but to ach
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTMl5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
+## I'v bean studying
+<br>
+![amazonwebservices](https://img.shields.io/badge/amazonwebservices-#232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+
 
 ## I'd like to learn
 <br>
